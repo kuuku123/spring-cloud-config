@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: secret2
+  secret: secret3
 
 gateway:
   ip: localhost
