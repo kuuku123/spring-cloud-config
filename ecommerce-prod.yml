@@ -1,6 +1,6 @@
 token:
   expiration_time: 8640000000
-  secret: secret_default
+  secret: secret_prod
 
 gateway:
   ip: localhost
